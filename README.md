@@ -1,4 +1,4 @@
-# 3350-P04
+# CSC 3350 Project 04
 
 Implement a console-based application. 
 
